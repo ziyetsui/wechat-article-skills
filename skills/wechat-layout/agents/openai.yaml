@@ -1,0 +1,4 @@
+interface:
+  display_name: "公众号排版"
+  short_description: "Format rewritten drafts for WeChat article publishing"
+  default_prompt: "Use -layout to format my rewritten article into WeChat-ready HTML."

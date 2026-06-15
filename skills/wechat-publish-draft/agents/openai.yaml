@@ -1,0 +1,4 @@
+interface:
+  display_name: "公众号草稿箱"
+  short_description: "Upload WeChat-ready HTML into official account drafts"
+  default_prompt: "Use -publish-draft to upload my formatted WeChat article HTML and cover image into the official account draft box."

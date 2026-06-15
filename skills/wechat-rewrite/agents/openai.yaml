@@ -1,0 +1,4 @@
+interface:
+  display_name: "公众号改写"
+  short_description: "改写成强判断公众号文章，并生成具体时刻转折感标题。"
+  default_prompt: "Use $wechat-rewrite to rewrite my source material into a strong personal WeChat article and generate concrete-moment, turning-point titles."
