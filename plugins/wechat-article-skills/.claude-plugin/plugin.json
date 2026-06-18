@@ -1,0 +1,20 @@
+{
+  "name": "wechat-article-skills",
+  "version": "0.1.0",
+  "description": "WeChat Official Account article workflow with 830 YouMind-derived writing and cover style references.",
+  "skills": "./skills/",
+  "author": {
+    "name": "Ziye Tsui",
+    "url": "https://github.com/ziyetsui"
+  },
+  "homepage": "https://github.com/ziyetsui/wechat-article-skills",
+  "repository": "https://github.com/ziyetsui/wechat-article-skills",
+  "keywords": [
+    "wechat",
+    "writing",
+    "cover",
+    "youmind",
+    "style",
+    "content-creation"
+  ]
+}

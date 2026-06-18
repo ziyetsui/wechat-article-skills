@@ -1,0 +1,38 @@
+{
+  "name": "wechat-article-skills",
+  "version": "0.1.0",
+  "description": "WeChat Official Account article workflow with 830 YouMind-derived writing and cover style references.",
+  "author": {
+    "name": "Ziye Tsui",
+    "url": "https://github.com/ziyetsui"
+  },
+  "homepage": "https://github.com/ziyetsui/wechat-article-skills",
+  "repository": "https://github.com/ziyetsui/wechat-article-skills",
+  "keywords": [
+    "wechat",
+    "writing",
+    "cover",
+    "youmind",
+    "style",
+    "content-creation"
+  ],
+  "skills": "./skills/",
+  "interface": {
+    "displayName": "WeChat Article Skills",
+    "shortDescription": "Write, style, illustrate, format, and draft WeChat articles",
+    "longDescription": "A WeChat Official Account production workflow with rewrite, cover generation, layout, draft-box upload, and 830 YouMind-derived viral article and cover style references. Use it to choose a writing style, choose or mix a cover style, and run the full publishing preparation pipeline.",
+    "developerName": "Ziye Tsui",
+    "category": "Productivity",
+    "capabilities": [
+      "Interactive",
+      "Write"
+    ],
+    "websiteURL": "https://github.com/ziyetsui/wechat-article-skills",
+    "defaultPrompt": [
+      "Recommend YouMind styles for my WeChat article",
+      "Write this as a WeChat article with a matching cover",
+      "Use Dan Koe writing style with a black editorial cover"
+    ],
+    "brandColor": "#1F5EFF"
+  }
+}
