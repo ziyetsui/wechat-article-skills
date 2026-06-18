@@ -1,0 +1,4 @@
+interface:
+  display_name: "公众号风格工作室"
+  short_description: "从 830 个 YouMind 爆款文章/封面风格中推荐、选择、混搭并应用到公众号创作。"
+  default_prompt: "Use $wechat-style-studio to recommend YouMind viral writing and cover styles for my WeChat article, then help me pick one."

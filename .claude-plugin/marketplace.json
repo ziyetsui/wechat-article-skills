@@ -1,0 +1,26 @@
+{
+  "name": "wechat-article-skills",
+  "metadata": {
+    "description": "WeChat Official Account writing, cover, layout, and draft-box workflow with 830 YouMind viral style references."
+  },
+  "owner": {
+    "name": "Ziye Tsui",
+    "url": "https://github.com/ziyetsui"
+  },
+  "plugins": [
+    {
+      "name": "wechat-article-skills",
+      "description": "Choose or mix YouMind writing and cover styles, then produce a WeChat article, cover, layout, and draft-box upload.",
+      "source": "./plugins/wechat-article-skills",
+      "category": "productivity",
+      "tags": [
+        "wechat",
+        "writing",
+        "cover",
+        "youmind",
+        "style",
+        "content"
+      ]
+    }
+  ]
+}

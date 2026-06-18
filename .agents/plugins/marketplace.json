@@ -1,0 +1,20 @@
+{
+  "name": "wechat-article-skills",
+  "interface": {
+    "displayName": "WeChat Article Skills"
+  },
+  "plugins": [
+    {
+      "name": "wechat-article-skills",
+      "source": {
+        "source": "local",
+        "path": "./plugins/wechat-article-skills"
+      },
+      "policy": {
+        "installation": "AVAILABLE",
+        "authentication": "ON_INSTALL"
+      },
+      "category": "Productivity"
+    }
+  ]
+}
