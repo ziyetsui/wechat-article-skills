@@ -1,27 +1,55 @@
 # WeChat Article Skills
 
-830 viral writing and cover styles for WeChat Official Account articles.
+830 viral writing and cover templates for WeChat Official Account articles.
 
-This is a skill pack for turning source material into a publish-ready WeChat workflow: choose a style, rewrite the article, generate a cover, format the article, and upload it to the Official Account draft box. It includes a YouMind-derived style studio with 830 article/cover style cards, loaded progressively so an agent can recommend a few strong directions without reading the whole library.
+This is a production-ready skill pack for turning raw source material into a publish-ready WeChat workflow: choose a proven style, rewrite the article, generate a cover direction, format the article, and upload it to the Official Account draft box. The built-in style studio is derived from YouMind viral article data and uses progressive disclosure, so an agent can recommend a few strong templates without loading the whole library.
 
-## See It
+## Template Library At A Glance
 
-Representative cover systems from the style library:
+| 830 | 6 | 6 | 1 |
+|---:|---:|---:|---:|
+| style cards | article systems | cover systems | full WeChat pipeline |
+
+| What you get | Why it matters |
+|---|---|
+| Viral article structure cards | Reuse hooks, section rhythm, argument patterns, and endings instead of starting from a blank page. |
+| Cover direction cards | Reuse visual metaphors, palette, density, and composition for WeChat-friendly 2.35:1 covers. |
+| Style mixing | Use one reference for the article voice and another for the cover system. |
+| Agent-ready workflow | Works as separate skills or one orchestrated `@公众号流水线` flow. |
+
+## Template Wall
+
+Red-pick templates, Kimi/agent workflow references, and high-signal skill-template examples:
 
 <table>
   <tr>
-    <td width="33%" valign="top"><img src="skills/wechat-style-studio/assets/covers/top/0001-fix-your-life-one-day.jpg" alt="Dan Koe black editorial cover" /><br><b>Dan Koe Coaching</b><br><sub>清单型爆款教程 · 黑白 editorial</sub></td>
-    <td width="33%" valign="top"><img src="skills/wechat-style-studio/assets/covers/top/0004-claude-ai-personal-trainer-guide.jpg" alt="Claude personal trainer cover" /><br><b>Claude Guide</b><br><sub>步骤型深度指南 · 现代公众号题图</sub></td>
-    <td width="33%" valign="top"><img src="skills/wechat-style-studio/assets/covers/top/0346-x-advertising-platform-ai-rebuild.jpg" alt="X advertising platform cover" /><br><b>Product Brief</b><br><sub>清单型爆款教程 · 浅底信息图</sub></td>
+    <td width="33%" valign="top"><img src="skills/wechat-style-studio/assets/covers/showcase/0607-opus-kimi-coding-cost-reduction.jpg" alt="Opus and Kimi Agent Swarm workflow cover" width="100%" /><br><b>Kimi Cost Stack</b><br><sub>AI agent workflow · high-saturation tech poster</sub></td>
+    <td width="33%" valign="top"><img src="skills/wechat-style-studio/assets/covers/showcase/0620-kimi-2-6-agent-swarm-speed.jpg" alt="Kimi 2.6 agent swarm cover" width="100%" /><br><b>Kimi Agent Swarm</b><br><sub>300-agent system · modern WeChat cover</sub></td>
+    <td width="33%" valign="top"><img src="skills/wechat-style-studio/assets/covers/showcase/0829-20-ai-skills-expertise-templates.jpg" alt="AI skills expertise templates cover" width="100%" /><br><b>Skill Templates</b><br><sub>20 reusable AI expertise templates</sub></td>
   </tr>
   <tr>
-    <td width="33%" valign="top"><img src="skills/wechat-style-studio/assets/covers/top/0002-multiple-interests-career-guide.jpg" alt="Multiple interests career guide cover" /><br><b>Dark Allegory</b><br><sub>职业选择 · 暗色电影感</sub></td>
-    <td width="33%" valign="top"><img src="skills/wechat-style-studio/assets/covers/top/0007-claude-code-html-effectiveness.jpg" alt="Claude Code HTML effectiveness cover" /><br><b>Claude Code</b><br><sub>技术实操拆解 · 产品幻灯片</sub></td>
-    <td width="33%" valign="top"><img src="skills/wechat-style-studio/assets/covers/top/0714-bitcoin-etf-late-mover-analysis.jpg" alt="Bitcoin ETF analysis cover" /><br><b>Market Poster</b><br><sub>观点型解释分析 · 高饱和海报</sub></td>
+    <td width="33%" valign="top"><img src="skills/wechat-style-studio/assets/covers/showcase/0495-anthropic-claude-code-html-first.jpg" alt="Claude Code HTML-first cover" width="100%" /><br><b>HTML-First Output</b><br><sub>technical breakdown · interface collage</sub></td>
+    <td width="33%" valign="top"><img src="skills/wechat-style-studio/assets/covers/showcase/0675-karpathy-claude-md-ai-coding.jpg" alt="Karpathy CLAUDE.md GitHub cover" width="100%" /><br><b>GitHub Playbook</b><br><sub>CLAUDE.md memory · code workflow</sub></td>
+    <td width="33%" valign="top"><img src="skills/wechat-style-studio/assets/covers/showcase/0330-ai-design-workflow-2026-templates.jpg" alt="AI design workflow templates cover" width="100%" /><br><b>Design Workflow</b><br><sub>ready-to-use visual templates</sub></td>
   </tr>
 </table>
 
-Open the full browseable gallery: [`skills/wechat-style-studio/references/style-gallery.md`](skills/wechat-style-studio/references/style-gallery.md).
+Frontend, slide, GitHub, and product-page style references:
+
+<table>
+  <tr>
+    <td width="33%" valign="top"><img src="skills/wechat-style-studio/assets/covers/showcase/0104-generative-ui-frontend-architecture-patterns.jpg" alt="Generative UI frontend architecture cover" width="100%" /><br><b>Frontend Systems</b><br><sub>generative UI · architecture patterns</sub></td>
+    <td width="33%" valign="top"><img src="skills/wechat-style-studio/assets/covers/showcase/0111-ai-remake-professional-slides.jpg" alt="AI remake professional slides cover" width="100%" /><br><b>Professional Slides</b><br><sub>slide transformation · step guide</sub></td>
+    <td width="33%" valign="top"><img src="skills/wechat-style-studio/assets/covers/showcase/0049-open-source-magazine-ppt-skill.jpg" alt="Open-source magazine PPT skill cover" width="100%" /><br><b>Magazine PPT</b><br><sub>open-source design skill · cover system</sub></td>
+  </tr>
+  <tr>
+    <td width="33%" valign="top"><img src="skills/wechat-style-studio/assets/covers/showcase/0115-github-repos-for-making-money.jpg" alt="GitHub repos for making money cover" width="100%" /><br><b>GitHub Directory</b><br><sub>repo roundup · high-signal resource page</sub></td>
+    <td width="33%" valign="top"><img src="skills/wechat-style-studio/assets/covers/showcase/0124-claude-skills-ecosystem-github-links.jpg" alt="Claude skills ecosystem GitHub links cover" width="100%" /><br><b>Skills Ecosystem</b><br><sub>GitHub link collection · long list format</sub></td>
+    <td width="33%" valign="top"><img src="skills/wechat-style-studio/assets/covers/top/0346-x-advertising-platform-ai-rebuild.jpg" alt="Product brief cover system" width="100%" /><br><b>Product Brief</b><br><sub>minimal infographic · landing-page feel</sub></td>
+  </tr>
+</table>
+
+Browse the full template gallery: [`skills/wechat-style-studio/references/style-gallery.md`](skills/wechat-style-studio/references/style-gallery.md).
 
 ## What It Does
 
