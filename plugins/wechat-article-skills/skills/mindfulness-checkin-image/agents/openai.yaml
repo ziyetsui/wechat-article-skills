@@ -1,0 +1,5 @@
+interface:
+  display_name: "正念打卡图"
+  short_description: "一句话生成柔和 3:4 正念打卡图海报工作流工具集"
+  brand_color: "#F4D94D"
+  default_prompt: "Use $mindfulness-checkin-image to turn this sentence into a 3:4 mindfulness check-in image: 我允许自己慢下来。"

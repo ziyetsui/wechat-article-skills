@@ -72,6 +72,7 @@ Browse the full template gallery: [`skills/wechat-style-studio/references/style-
 - Lets you say “文章用 Dan Koe 那种风格，封面用黑白寓言风” or “我想选这种风格”.
 - Splits each selected reference into an article skill and a cover skill, so writing and image direction can be mixed.
 - Runs the whole WeChat production path: rewrite, cover prompt/generation, layout, and draft-box upload.
+- Turns short sentences into 3:4 mindfulness/贴图 images, or long passages into WeChat 贴图文字 under 1000 Chinese characters.
 - Uses progressive disclosure: read `style-index.json`, then load only the selected style card.
 
 ## Style Library
@@ -109,7 +110,7 @@ npx skills add ziyetsui/wechat-article-skills -a '*' -g -y
 Manual install:
 
 ```bash
-cp -R skills/wechat-* ~/.agents/skills/
+cp -R skills/* ~/.agents/skills/
 ```
 
 After installing, start a new agent session so the new skills are discovered.
@@ -155,6 +156,7 @@ Use the default personal WeChat style:
 - `wechat-layout`: format the rewritten article into WeChat-ready HTML/TXT.
 - `wechat-publish-draft`: upload formatted content to the WeChat Official Account draft box.
 - `wechat-article-pipeline`: orchestrate style selection, rewrite, cover, layout, and draft-box upload.
+- `mindfulness-checkin-image`: generate 3:4 mindfulness/贴图 images from short sentences, or rewrite articles into WeChat 贴图文字 and 可上图金句.
 
 ## Configuration
 
