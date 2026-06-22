@@ -19,18 +19,33 @@ This is a production-ready skill pack for turning raw source material into a pub
 
 ## Template Wall
 
-Red-pick templates, Kimi/agent workflow references, and high-signal skill-template examples:
+Finder red-tag picks from the local cover library, with the strongest AI/agent/workflow references first:
 
 <table>
   <tr>
     <td width="33%" valign="top"><img src="skills/wechat-style-studio/assets/covers/showcase/0607-opus-kimi-coding-cost-reduction.jpg" alt="Opus and Kimi Agent Swarm workflow cover" width="100%" /><br><b>Kimi Cost Stack</b><br><sub>AI agent workflow · high-saturation tech poster</sub></td>
     <td width="33%" valign="top"><img src="skills/wechat-style-studio/assets/covers/showcase/0620-kimi-2-6-agent-swarm-speed.jpg" alt="Kimi 2.6 agent swarm cover" width="100%" /><br><b>Kimi Agent Swarm</b><br><sub>300-agent system · modern WeChat cover</sub></td>
-    <td width="33%" valign="top"><img src="skills/wechat-style-studio/assets/covers/showcase/0829-20-ai-skills-expertise-templates.jpg" alt="AI skills expertise templates cover" width="100%" /><br><b>Skill Templates</b><br><sub>20 reusable AI expertise templates</sub></td>
+    <td width="33%" valign="top"><img src="skills/wechat-style-studio/assets/covers/showcase/0816-claude-adobe-workflow-optimization.jpg" alt="Claude Adobe workflow optimization cover" width="100%" /><br><b>Claude Workflow</b><br><sub>tool orchestration · Japanese editorial layout</sub></td>
   </tr>
   <tr>
     <td width="33%" valign="top"><img src="skills/wechat-style-studio/assets/covers/showcase/0495-anthropic-claude-code-html-first.jpg" alt="Claude Code HTML-first cover" width="100%" /><br><b>HTML-First Output</b><br><sub>technical breakdown · interface collage</sub></td>
     <td width="33%" valign="top"><img src="skills/wechat-style-studio/assets/covers/showcase/0675-karpathy-claude-md-ai-coding.jpg" alt="Karpathy CLAUDE.md GitHub cover" width="100%" /><br><b>GitHub Playbook</b><br><sub>CLAUDE.md memory · code workflow</sub></td>
-    <td width="33%" valign="top"><img src="skills/wechat-style-studio/assets/covers/showcase/0330-ai-design-workflow-2026-templates.jpg" alt="AI design workflow templates cover" width="100%" /><br><b>Design Workflow</b><br><sub>ready-to-use visual templates</sub></td>
+    <td width="33%" valign="top"><img src="skills/wechat-style-studio/assets/covers/showcase/0829-20-ai-skills-expertise-templates.jpg" alt="AI skills expertise templates cover" width="100%" /><br><b>Skill Templates</b><br><sub>20 reusable AI expertise templates</sub></td>
+  </tr>
+</table>
+
+Additional red-tagged cover systems selected for visual variety:
+
+<table>
+  <tr>
+    <td width="33%" valign="top"><img src="skills/wechat-style-studio/assets/covers/showcase/0464-hermes-agent-personal-ai-os.jpg" alt="Hermes agent personal AI OS cover" width="100%" /><br><b>Agent OS</b><br><sub>terminal interface · dark operating-system mood</sub></td>
+    <td width="33%" valign="top"><img src="skills/wechat-style-studio/assets/covers/showcase/0465-the-novel-is-dead-ai.jpg" alt="The novel is dead AI editorial cover" width="100%" /><br><b>AI Editorial Poster</b><br><sub>bold monochrome system · single-idea impact</sub></td>
+    <td width="33%" valign="top"><img src="skills/wechat-style-studio/assets/covers/showcase/0591-build-llm-architectures-practical-lessons.jpg" alt="Build LLM architectures from scratch cover" width="100%" /><br><b>LLM Architecture</b><br><sub>hand-drawn explainer · dense technical map</sub></td>
+  </tr>
+  <tr>
+    <td width="33%" valign="top"><img src="skills/wechat-style-studio/assets/covers/showcase/0618-mac-mini-m4-ai-savings.jpg" alt="Mac mini M4 AI savings cover" width="100%" /><br><b>Hardware Stack</b><br><sub>cost comparison · device-centered tech card</sub></td>
+    <td width="33%" valign="top"><img src="skills/wechat-style-studio/assets/covers/showcase/0717-mcp-server-ai-business-opportunity.jpg" alt="MCP server AI business opportunity cover" width="100%" /><br><b>MCP Business</b><br><sub>market map · build-and-sell visual system</sub></td>
+    <td width="33%" valign="top"><img src="skills/wechat-style-studio/assets/covers/showcase/0822-claude-cowork-setup-guide.jpg" alt="Claude cowork setup guide cover" width="100%" /><br><b>Claude Cowork</b><br><sub>black-and-orange icon poster · AI teammate setup</sub></td>
   </tr>
 </table>
 
